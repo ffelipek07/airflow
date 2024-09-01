@@ -83,6 +83,7 @@
 
 # Arquitetura AWS
 
-![Arquitetura drawio](https://github.com/user-attachments/assets/ab30d778-06ac-4c9f-b4d4-6a15c2094b52)
+![Arquitetura-AWS drawio](https://github.com/user-attachments/assets/c2f958d4-bd9c-4e1a-8147-d5da9783c4e3)
+
 
 - [Arquitetura AWS](Doc/Arquitetura-AWS.drawio)
