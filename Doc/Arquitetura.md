@@ -77,7 +77,8 @@
 **Healthcheck:** Verifica a disponibilidade do Flower com uma requisição `curl`.  
 **Dependências:** Espera pelo Airflow Init.
 
-![airflow_architecture](https://github.com/user-attachments/assets/df1d858f-3bf9-4de0-9781-311b111afea6)
+
+![airflow_architecture](https://github.com/user-attachments/assets/c61084e9-52e8-4124-a4e2-42eeb5cf5672)
 
 - [Arquitetura Container](Doc/Arquitetura-Container.drawio)
 
