@@ -40,13 +40,11 @@ http://localhost:8080
 
 ```
 
+![image](https://github.com/user-attachments/assets/06de721b-b64d-4244-89cd-3ba18a812f37)
 
-![image](https://github.com/user-attachments/assets/9de9bccc-0240-410c-a108-1bc8669d3cd5)
+![image](https://github.com/user-attachments/assets/9c41d107-455d-45d8-91d7-31546be91fbf)
 
+![image](https://github.com/user-attachments/assets/00eb3e29-2943-4dd2-a837-1f1baca4a3c1)
 
-![image](https://github.com/user-attachments/assets/248aa45f-c436-466f-8708-41b647502ac0)
-
-
-![image](https://github.com/user-attachments/assets/87ee1ea3-29a1-4796-b03c-760d72f2f19e)
 
 
