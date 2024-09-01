@@ -19,7 +19,7 @@ docker-compose up airflow-init
 
 ```
 
-# Fluxo de ar em execução
+# Airflow em execução
 
 - Agora você pode iniciar todos os serviços:
 
