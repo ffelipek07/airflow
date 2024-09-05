@@ -15,7 +15,7 @@ module "ec2" {
   ami                    = data.aws_ami.ubuntu.id
   instance_type          = "t3.small" # used to set core count below
   availability_zone      = element(module.vpc.azs, 0)
-  subnet_id              = element(module.vpc.private_subnets, 0)
+  subnet_id              = element(module.vpc.public_subnets, 0)
   vpc_security_group_ids = [module.security_group.security_group_id]
 #  placement_group        = aws_placement_group.web.id
   create_eip             = false
